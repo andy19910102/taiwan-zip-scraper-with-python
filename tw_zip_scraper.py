@@ -1,4 +1,5 @@
 from pyquery import PyQuery as pq
+from PIL import Image, ImageDraw
 import json
 
 class TaiwanZipScraper:
@@ -110,5 +111,20 @@ class TaiwanZipScraper:
     def export_full_list(self):
         self.export_json("full_list", self.full_list)
 
+    def export_zip_images(self):
+        W, H = (70, 30)
+        background_color = (76, 154, 156)
+        text_color = (255, 255, 255)
+        for zip, district in  self.zip_district.items():
+            msg = zip
+            img = Image.new('RGB', (W, H), color = background_color)
+            d = ImageDraw.Draw(img)
+            w, h = d.textsize(msg)
+            d.text(((W-w)/2,(H-h)/2), msg, fill=text_color)
+            img.save(f"./zip_images/{zip}_{district}.png")
+
 # Create instance
 taiwan_zip_scraper = TaiwanZipScraper()
+
+# Export zip images
+# taiwan_zip_scraper.export_zip_images
