@@ -123,6 +123,29 @@ $ python tw_zip_scraper.py
 }
 ```
 
+### district_full.json
+
+```json=
+{
+    "中正區": {
+        "district_name": "中正區",
+        "zip_number": "202",
+        "city_name": "基隆市"
+    },
+    "大同區": {
+        "district_name": "大同區",
+        "zip_number": "103",
+        "city_name": "臺北市"
+    },
+    "中山區": {
+        "district_name": "中山區",
+        "zip_number": "203",
+        "city_name": "基隆市"
+    },
+    ...
+}
+```
+
 ### district_list.json
 
 ```json=
@@ -192,6 +215,29 @@ $ python tw_zip_scraper.py
     "105": "松山區",
     "106": "大安區",
     "108": "萬華區",
+    ...
+}
+```
+
+### zip_fill.json
+
+```json=
+{
+    "100": {
+        "district_name": "中正區",
+        "zip_number": "100",
+        "city_name": "臺北市"
+    },
+    "103": {
+        "district_name": "大同區",
+        "zip_number": "103",
+        "city_name": "臺北市"
+    },
+    "104": {
+        "district_name": "中山區",
+        "zip_number": "104",
+        "city_name": "臺北市"
+    },
     ...
 }
 ```

@@ -12,6 +12,8 @@ class TaiwanZipScraper:
         self.city_zip_list = {}
         self.city_zip_full = {}
         self.city_district_full = {}
+        self.zip_full = {}
+        self.district_full = {}
         self.full_list = []
         # scrape data
         self.scrape_data()
@@ -25,6 +27,8 @@ class TaiwanZipScraper:
         self.export_city_zip_list()
         self.export_city_district_full()
         self.export_city_zip_full()
+        self.export_zip_full()
+        self.export_district_full()
         self.export_full_list()
 
     def scrape_data(self):
@@ -62,6 +66,8 @@ class TaiwanZipScraper:
                     self.district_list.append(district_name)
                     self.full_list.append(full_map)
                     self.city_district_list[city].append(district_name)
+                    self.district_full[district_name] = full_map
+                    self.zip_full[zip] = full_map
                     self.city_zip_list[city].append(zip)
 
     def export_json(self, file_name, data):
@@ -94,6 +100,12 @@ class TaiwanZipScraper:
 
     def export_city_zip_full(self):
         self.export_json("city_zip_full", self.city_zip_full)
+
+    def export_zip_full(self):
+        self.export_json("zip_full", self.zip_full)
+
+    def export_district_full(self):
+        self.export_json("district_full", self.district_full)
 
     def export_full_list(self):
         self.export_json("full_list", self.full_list)
