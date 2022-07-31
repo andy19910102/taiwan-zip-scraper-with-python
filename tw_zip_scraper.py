@@ -65,7 +65,7 @@ class TaiwanZipScraper:
                     self.city_zip_list[city].append(zip)
 
     def export_json(self, file_name, data):
-        with open(file_name + ".json", "w", encoding="utf-8") as f:
+        with open("./json_examples/"+ file_name + ".json", "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
     def export_city_list(self):
