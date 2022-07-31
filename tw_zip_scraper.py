@@ -87,7 +87,7 @@ class TaiwanZipScraper:
         self.export_json("city_district_list", self.city_district_list)
 
     def export_city_zip_list(self):
-        self.export_json("export_city_zip_list", self.city_zip_list)
+        self.export_json("city_zip_list", self.city_zip_list)
 
     def export_city_district_full(self):
         self.export_json("city_district_full", self.city_district_full)
