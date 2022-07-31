@@ -9,16 +9,56 @@
             <title>中華民國行政區郵遞區號查詢表</title>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css">
             <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap4.min.css">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
         </head>
 
         <body>
             <div class="container py-5">
                 <h1>中華民國行政區郵遞區號查詢表</h1>
                 <div class="py-3">
-                    <a href="json_examples/city_district_full.json" target="_blank">
+                    <h2>JSON輸出範例連結</h2>
+                    <a href="json_examples/city_district_full.json" class="btn btn-outline-primary" target="_blank">
                         City District Full
                     </a>
+                    <a href="json_examples/city_district_list.json" class="btn btn-outline-primary" target="_blank">
+                        City District List
+                    </a>
+                    <a href="json_examples/city_list.json" class="btn btn-outline-primary" target="_blank">
+                        City List
+                    </a>
+                    <a href="json_examples/city_zip_full.json" class="btn btn-outline-primary" target="_blank">
+                        City Zip Full
+                    </a>
+                    <a href="json_examples/city_zip_list.json" class="btn btn-outline-primary" target="_blank">
+                        City Zip List
+                    </a>
+                    <br>
+                    <br>
+                    <a href="json_examples/district_full.json" class="btn btn-outline-primary" target="_blank">
+                        District Full
+                    </a>
+                    <a href="json_examples/district_list.json" class="btn btn-outline-primary" target="_blank">
+                        District List
+                    </a>
+                    <a href="json_examples/district_zip.json" class="btn btn-outline-primary" target="_blank">
+                        District Zip
+                    </a>
+                    <a href="json_examples/full_list.json" class="btn btn-outline-primary" target="_blank">
+                        Full List
+                    </a>
+                    <a href="json_examples/zip_district.json" class="btn btn-outline-primary" target="_blank">
+                        Zip District
+                    </a>
+                    <br>
+                    <br>
+                    <a href="json_examples/zip_full.json" class="btn btn-outline-primary" target="_blank">
+                        Zip Full
+                    </a>
+                    <a href="json_examples/zip_list.json" class="btn btn-outline-primary" target="_blank">
+                        Zip List
+                    </a>
                 </div>
+                <h2>整合Datatable查詢表</h2>
                 <table id="zipTable" class="table table-striped table-bordered">
                     <thead>
                         <tr>
@@ -2240,6 +2280,9 @@
                     </tbody>
                 </table>
             </div>
+            <footer class="mt-5 py-3 bg-light text-center border-top">
+                <p class="m-0">Copyright © <a href="https://enn.design" target="_blank">An Sheng Huang</a> All Rights Reserved</p>
+            </footer>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
             <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
             <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap4.min.js"></script>

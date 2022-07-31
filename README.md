@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## [Live Demo](https://andy19910102.github.io/taiwan-zip-scraper-with-python/taiwan_zip.html)
+
 ## Install the necessary Modules
 
 ```shell=
@@ -23,8 +25,6 @@ taiwan_zip_scraper = TaiwanZipScraper()
 # Export HTML
 taiwan_zip_scraper.export_html()
 ```
-
-[Live Demo](https://andy19910102.github.io/taiwan-zip-scraper-with-python/taiwan_zip.html)
 
 ## Export formats
 
