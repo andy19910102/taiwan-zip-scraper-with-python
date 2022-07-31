@@ -1,6 +1,6 @@
 # Taiwan ZIP Scraper with Python
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## [Live Demo](https://andy19910102.github.io/taiwan-zip-scraper-with-python/taiwan_zip.html)
 
@@ -19,14 +19,24 @@ $ python tw_zip_scraper.py
 ## Export HTML with datatable.js
 
 ```python=
-# Create instance
+# Create an instance
 taiwan_zip_scraper = TaiwanZipScraper()
 
 # Export HTML
 taiwan_zip_scraper.export_html()
 ```
 
-## Export formats
+## Export Xlsx file
+
+```python=
+# Create an instance
+taiwan_zip_scraper = TaiwanZipScraper()
+
+# Export xlsx file
+taiwan_zip_scraper.export_xlsx()
+```
+
+## Export with JSON formats
 
 ### city_district_full.json
 

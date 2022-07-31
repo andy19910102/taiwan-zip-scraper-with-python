@@ -175,7 +175,7 @@ class TaiwanZipScraper:
             <meta charset="UTF-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>中華民國行政區郵遞區號查詢表</title>
+            <title>Taiwan Postal Code</title>
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css">
             <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap4.min.css">
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
@@ -183,9 +183,9 @@ class TaiwanZipScraper:
 
         <body>
             <div class="container py-5">
-                <h1>中華民國行政區郵遞區號查詢表</h1>
-                <div class="py-3">
-                    <h2>JSON輸出範例連結</h2>
+                <h1>Taiwan Postal Code</h1>
+                <section class="py-3">
+                    <h2>JSON Output Examples</h2>
                     <a href="json_examples/city_district_full.json" class="btn btn-outline-primary" target="_blank">
                         City District Full
                     </a>
@@ -226,8 +226,19 @@ class TaiwanZipScraper:
                     <a href="json_examples/zip_list.json" class="btn btn-outline-primary" target="_blank">
                         Zip List
                     </a>
-                </div>
-                <h2>整合Datatable查詢表</h2>
+
+                    <h2 class="mt-3">XLSX & CSV Outputs</h2>
+                    <a href="taiwan_zip.xlsx" class="btn btn-outline-success" target="_blank">
+                        XLSX file output
+                    </a>
+                    <a href="taiwan_zip.csv" class="btn btn-outline-success" target="_blank">
+                        CSV File output
+                    </a>
+
+
+                </section>
+                <section class="py-5">
+                <h2>Integrate with <a target="_blank" rel="noopener" href="https://datatables.net/">Datatable.js</a></h2>
                 <table id="zipTable" class="table table-striped table-bordered">
                     <thead>
                         <tr>
@@ -240,6 +251,7 @@ class TaiwanZipScraper:
         """ + tbody + """
                     </tbody>
                 </table>
+                </section>
             </div>
             <footer class="mt-5 py-3 bg-light text-center border-top">
                 <p class="m-0">Copyright © <a href="https://enn.design" target="_blank">An Sheng Huang</a> All Rights Reserved</p>
@@ -262,7 +274,7 @@ class TaiwanZipScraper:
         file.close()
 
 
-# Create instance
+# Create an instance
 taiwan_zip_scraper = TaiwanZipScraper()
 
 # Export HTML
