@@ -151,8 +151,74 @@ class TaiwanZipScraper:
                     full["city_name"]
                 ])
 
+    def export_html(self):
+        tbody = ""
+        # print(self.full_list)
+        for full in self.full_list:
+            district_name = full["district_name"]
+            city_name = full["city_name"]
+            tbody += \
+            f"""
+                <tr>
+                    <td>{full['zip_number']}</td>
+                    <td>{district_name}</td>
+                    <td>{city_name}</td>
+                </tr>
+            """
+
+        html_code = \
+        """
+        <!DOCTYPE html>
+        <html lang="en">
+
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>中華民國行政區郵遞區號查詢表</title>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css">
+            <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap4.min.css">
+        </head>
+
+        <body>
+            <div class="container py-5">
+                <h1>中華民國行政區郵遞區號查詢表</h1>
+                <table id="zipTable" class="table table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>郵遞區號</th>
+                            <th>行政區</th>
+                            <th>所在縣市</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        """ + tbody + """
+                    </tbody>
+                </table>
+            </div>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+            <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap4.min.js"></script>
+            <script>
+                $(document).ready( function () {
+                    $('#zipTable').DataTable({
+                        paging: false
+                    });
+                });
+            </script>
+        </body>
+        </html>
+        """
+        file = open("taiwan_zip.html","w")
+        file.write(html_code)
+        file.close()
+
+
 # Create instance
 taiwan_zip_scraper = TaiwanZipScraper()
+
+# Export HTML
+taiwan_zip_scraper.export_html()
 
 # Export xlsx file
 # taiwan_zip_scraper.export_xlsx()
