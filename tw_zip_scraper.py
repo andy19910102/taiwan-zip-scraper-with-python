@@ -1,4 +1,5 @@
 from pyquery import PyQuery as pq
+from xlsxwriter import Workbook
 from PIL import Image, ImageDraw
 import json
 
@@ -123,8 +124,25 @@ class TaiwanZipScraper:
             d.text(((W-w)/2,(H-h)/2), msg, fill=text_color)
             img.save(f"./zip_images/{zip}_{district}.png")
 
+    def export_xlsx(self):
+        workbook = Workbook("taiwan_zip.xlsx")
+        worksheet = workbook.add_worksheet()
+        worksheet.write(0, 0, "郵遞區號")
+        worksheet.write(0, 1, "行政區")
+        worksheet.write(0, 2, "所在縣市")
+        row = 1
+        for full in self.full_list:
+            worksheet.write(row, 0, full["zip_number"])
+            worksheet.write(row, 1, full["district_name"])
+            worksheet.write(row, 2, full["city_name"])
+            row += 1
+        workbook.close()
+
 # Create instance
 taiwan_zip_scraper = TaiwanZipScraper()
 
+# Export xlsx file
+taiwan_zip_scraper.export_xlsx()
+
 # Export zip images
-# taiwan_zip_scraper.export_zip_images
+taiwan_zip_scraper.export_zip_images()
