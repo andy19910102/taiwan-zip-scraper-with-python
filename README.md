@@ -14,6 +14,18 @@ $ pip install pyquery
 $ python tw_zip_scraper.py
 ```
 
+## Export HTML with datatable.js
+
+```python=
+# Create instance
+taiwan_zip_scraper = TaiwanZipScraper()
+
+# Export HTML
+taiwan_zip_scraper.export_html()
+```
+
+[Live Demo](https://andy19910102.github.io/taiwan-zip-scraper-with-python/taiwan_zip.html)
+
 ## Export formats
 
 ### city_district_full.json
