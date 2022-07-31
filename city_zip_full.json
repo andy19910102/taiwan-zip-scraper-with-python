@@ -1,0 +1,1886 @@
+{
+    "臺北市": {
+        "100": {
+            "district_name": "中正區",
+            "zip_number": "100",
+            "city_name": "臺北市"
+        },
+        "103": {
+            "district_name": "大同區",
+            "zip_number": "103",
+            "city_name": "臺北市"
+        },
+        "104": {
+            "district_name": "中山區",
+            "zip_number": "104",
+            "city_name": "臺北市"
+        },
+        "105": {
+            "district_name": "松山區",
+            "zip_number": "105",
+            "city_name": "臺北市"
+        },
+        "106": {
+            "district_name": "大安區",
+            "zip_number": "106",
+            "city_name": "臺北市"
+        },
+        "108": {
+            "district_name": "萬華區",
+            "zip_number": "108",
+            "city_name": "臺北市"
+        },
+        "110": {
+            "district_name": "信義區",
+            "zip_number": "110",
+            "city_name": "臺北市"
+        },
+        "111": {
+            "district_name": "士林區",
+            "zip_number": "111",
+            "city_name": "臺北市"
+        },
+        "112": {
+            "district_name": "北投區",
+            "zip_number": "112",
+            "city_name": "臺北市"
+        },
+        "114": {
+            "district_name": "內湖區",
+            "zip_number": "114",
+            "city_name": "臺北市"
+        },
+        "115": {
+            "district_name": "南港區",
+            "zip_number": "115",
+            "city_name": "臺北市"
+        },
+        "116": {
+            "district_name": "文山區",
+            "zip_number": "116",
+            "city_name": "臺北市"
+        }
+    },
+    "基隆市": {
+        "200": {
+            "district_name": "仁愛區",
+            "zip_number": "200",
+            "city_name": "基隆市"
+        },
+        "201": {
+            "district_name": "信義區",
+            "zip_number": "201",
+            "city_name": "基隆市"
+        },
+        "202": {
+            "district_name": "中正區",
+            "zip_number": "202",
+            "city_name": "基隆市"
+        },
+        "203": {
+            "district_name": "中山區",
+            "zip_number": "203",
+            "city_name": "基隆市"
+        },
+        "204": {
+            "district_name": "安樂區",
+            "zip_number": "204",
+            "city_name": "基隆市"
+        },
+        "205": {
+            "district_name": "暖暖區",
+            "zip_number": "205",
+            "city_name": "基隆市"
+        },
+        "206": {
+            "district_name": "七堵區",
+            "zip_number": "206",
+            "city_name": "基隆市"
+        }
+    },
+    "連江縣": {
+        "209": {
+            "district_name": "南竿鄉",
+            "zip_number": "209",
+            "city_name": "連江縣"
+        },
+        "210": {
+            "district_name": "北竿鄉",
+            "zip_number": "210",
+            "city_name": "連江縣"
+        },
+        "211": {
+            "district_name": "莒光鄉",
+            "zip_number": "211",
+            "city_name": "連江縣"
+        },
+        "212": {
+            "district_name": "東引鄉",
+            "zip_number": "212",
+            "city_name": "連江縣"
+        }
+    },
+    "新北市": {
+        "207": {
+            "district_name": "萬里區",
+            "zip_number": "207",
+            "city_name": "新北市"
+        },
+        "208": {
+            "district_name": "金山區",
+            "zip_number": "208",
+            "city_name": "新北市"
+        },
+        "220": {
+            "district_name": "板橋區",
+            "zip_number": "220",
+            "city_name": "新北市"
+        },
+        "221": {
+            "district_name": "汐止區",
+            "zip_number": "221",
+            "city_name": "新北市"
+        },
+        "222": {
+            "district_name": "深坑區",
+            "zip_number": "222",
+            "city_name": "新北市"
+        },
+        "223": {
+            "district_name": "石碇區",
+            "zip_number": "223",
+            "city_name": "新北市"
+        },
+        "224": {
+            "district_name": "瑞芳區",
+            "zip_number": "224",
+            "city_name": "新北市"
+        },
+        "226": {
+            "district_name": "平溪區",
+            "zip_number": "226",
+            "city_name": "新北市"
+        },
+        "227": {
+            "district_name": "雙溪區",
+            "zip_number": "227",
+            "city_name": "新北市"
+        },
+        "228": {
+            "district_name": "貢寮區",
+            "zip_number": "228",
+            "city_name": "新北市"
+        },
+        "231": {
+            "district_name": "新店區",
+            "zip_number": "231",
+            "city_name": "新北市"
+        },
+        "232": {
+            "district_name": "坪林區",
+            "zip_number": "232",
+            "city_name": "新北市"
+        },
+        "233": {
+            "district_name": "烏來區",
+            "zip_number": "233",
+            "city_name": "新北市"
+        },
+        "234": {
+            "district_name": "永和區",
+            "zip_number": "234",
+            "city_name": "新北市"
+        },
+        "235": {
+            "district_name": "中和區",
+            "zip_number": "235",
+            "city_name": "新北市"
+        },
+        "236": {
+            "district_name": "土城區",
+            "zip_number": "236",
+            "city_name": "新北市"
+        },
+        "237": {
+            "district_name": "三峽區",
+            "zip_number": "237",
+            "city_name": "新北市"
+        },
+        "238": {
+            "district_name": "樹林區",
+            "zip_number": "238",
+            "city_name": "新北市"
+        },
+        "239": {
+            "district_name": "鶯歌區",
+            "zip_number": "239",
+            "city_name": "新北市"
+        },
+        "241": {
+            "district_name": "三重區",
+            "zip_number": "241",
+            "city_name": "新北市"
+        },
+        "242": {
+            "district_name": "新莊區",
+            "zip_number": "242",
+            "city_name": "新北市"
+        },
+        "243": {
+            "district_name": "泰山區",
+            "zip_number": "243",
+            "city_name": "新北市"
+        },
+        "244": {
+            "district_name": "林口區",
+            "zip_number": "244",
+            "city_name": "新北市"
+        },
+        "247": {
+            "district_name": "蘆洲區",
+            "zip_number": "247",
+            "city_name": "新北市"
+        },
+        "248": {
+            "district_name": "五股區",
+            "zip_number": "248",
+            "city_name": "新北市"
+        },
+        "249": {
+            "district_name": "八里區",
+            "zip_number": "249",
+            "city_name": "新北市"
+        },
+        "251": {
+            "district_name": "淡水區",
+            "zip_number": "251",
+            "city_name": "新北市"
+        },
+        "252": {
+            "district_name": "三芝區",
+            "zip_number": "252",
+            "city_name": "新北市"
+        },
+        "253": {
+            "district_name": "石門區",
+            "zip_number": "253",
+            "city_name": "新北市"
+        }
+    },
+    "宜蘭縣": {
+        "260": {
+            "district_name": "宜蘭市",
+            "zip_number": "260",
+            "city_name": "宜蘭縣"
+        },
+        "261": {
+            "district_name": "頭城鎮",
+            "zip_number": "261",
+            "city_name": "宜蘭縣"
+        },
+        "262": {
+            "district_name": "礁溪鄉",
+            "zip_number": "262",
+            "city_name": "宜蘭縣"
+        },
+        "263": {
+            "district_name": "壯圍鄉",
+            "zip_number": "263",
+            "city_name": "宜蘭縣"
+        },
+        "264": {
+            "district_name": "員山鄉",
+            "zip_number": "264",
+            "city_name": "宜蘭縣"
+        },
+        "265": {
+            "district_name": "羅東鎮",
+            "zip_number": "265",
+            "city_name": "宜蘭縣"
+        },
+        "266": {
+            "district_name": "三星鄉",
+            "zip_number": "266",
+            "city_name": "宜蘭縣"
+        },
+        "267": {
+            "district_name": "大同鄉",
+            "zip_number": "267",
+            "city_name": "宜蘭縣"
+        },
+        "268": {
+            "district_name": "五結鄉",
+            "zip_number": "268",
+            "city_name": "宜蘭縣"
+        },
+        "269": {
+            "district_name": "冬山鄉",
+            "zip_number": "269",
+            "city_name": "宜蘭縣"
+        },
+        "270": {
+            "district_name": "蘇澳鎮",
+            "zip_number": "270",
+            "city_name": "宜蘭縣"
+        },
+        "272": {
+            "district_name": "南澳鄉",
+            "zip_number": "272",
+            "city_name": "宜蘭縣"
+        },
+        "290": {
+            "district_name": "釣魚臺",
+            "zip_number": "290",
+            "city_name": "宜蘭縣"
+        }
+    },
+    "新竹市": {
+        "300": {
+            "district_name": "新竹市",
+            "zip_number": "300",
+            "city_name": "新竹市"
+        }
+    },
+    "新竹縣": {
+        "302": {
+            "district_name": "竹北市",
+            "zip_number": "302",
+            "city_name": "新竹縣"
+        },
+        "303": {
+            "district_name": "湖口鄉",
+            "zip_number": "303",
+            "city_name": "新竹縣"
+        },
+        "304": {
+            "district_name": "新豐鄉",
+            "zip_number": "304",
+            "city_name": "新竹縣"
+        },
+        "305": {
+            "district_name": "新埔鎮",
+            "zip_number": "305",
+            "city_name": "新竹縣"
+        },
+        "306": {
+            "district_name": "關西鎮",
+            "zip_number": "306",
+            "city_name": "新竹縣"
+        },
+        "307": {
+            "district_name": "芎林鄉",
+            "zip_number": "307",
+            "city_name": "新竹縣"
+        },
+        "308": {
+            "district_name": "寶山鄉",
+            "zip_number": "308",
+            "city_name": "新竹縣"
+        },
+        "310": {
+            "district_name": "竹東鎮",
+            "zip_number": "310",
+            "city_name": "新竹縣"
+        },
+        "311": {
+            "district_name": "五峰鄉",
+            "zip_number": "311",
+            "city_name": "新竹縣"
+        },
+        "312": {
+            "district_name": "橫山鄉",
+            "zip_number": "312",
+            "city_name": "新竹縣"
+        },
+        "313": {
+            "district_name": "尖石鄉",
+            "zip_number": "313",
+            "city_name": "新竹縣"
+        },
+        "314": {
+            "district_name": "北埔鄉",
+            "zip_number": "314",
+            "city_name": "新竹縣"
+        },
+        "315": {
+            "district_name": "峨眉鄉",
+            "zip_number": "315",
+            "city_name": "新竹縣"
+        }
+    },
+    "桃園市": {
+        "320": {
+            "district_name": "中壢區",
+            "zip_number": "320",
+            "city_name": "桃園市"
+        },
+        "324": {
+            "district_name": "平鎮區",
+            "zip_number": "324",
+            "city_name": "桃園市"
+        },
+        "325": {
+            "district_name": "龍潭區",
+            "zip_number": "325",
+            "city_name": "桃園市"
+        },
+        "326": {
+            "district_name": "楊梅區",
+            "zip_number": "326",
+            "city_name": "桃園市"
+        },
+        "327": {
+            "district_name": "新屋區",
+            "zip_number": "327",
+            "city_name": "桃園市"
+        },
+        "328": {
+            "district_name": "觀音區",
+            "zip_number": "328",
+            "city_name": "桃園市"
+        },
+        "330": {
+            "district_name": "桃園區",
+            "zip_number": "330",
+            "city_name": "桃園市"
+        },
+        "333": {
+            "district_name": "龜山區",
+            "zip_number": "333",
+            "city_name": "桃園市"
+        },
+        "334": {
+            "district_name": "八德區",
+            "zip_number": "334",
+            "city_name": "桃園市"
+        },
+        "335": {
+            "district_name": "大溪區",
+            "zip_number": "335",
+            "city_name": "桃園市"
+        },
+        "336": {
+            "district_name": "復興區",
+            "zip_number": "336",
+            "city_name": "桃園市"
+        },
+        "337": {
+            "district_name": "大園區",
+            "zip_number": "337",
+            "city_name": "桃園市"
+        },
+        "338": {
+            "district_name": "蘆竹區",
+            "zip_number": "338",
+            "city_name": "桃園市"
+        }
+    },
+    "苗栗縣": {
+        "350": {
+            "district_name": "竹南鎮",
+            "zip_number": "350",
+            "city_name": "苗栗縣"
+        },
+        "351": {
+            "district_name": "頭份市",
+            "zip_number": "351",
+            "city_name": "苗栗縣"
+        },
+        "352": {
+            "district_name": "三灣鄉",
+            "zip_number": "352",
+            "city_name": "苗栗縣"
+        },
+        "353": {
+            "district_name": "南庄鄉",
+            "zip_number": "353",
+            "city_name": "苗栗縣"
+        },
+        "354": {
+            "district_name": "獅潭鄉",
+            "zip_number": "354",
+            "city_name": "苗栗縣"
+        },
+        "356": {
+            "district_name": "後龍鎮",
+            "zip_number": "356",
+            "city_name": "苗栗縣"
+        },
+        "357": {
+            "district_name": "通霄鎮",
+            "zip_number": "357",
+            "city_name": "苗栗縣"
+        },
+        "358": {
+            "district_name": "苑裡鎮",
+            "zip_number": "358",
+            "city_name": "苗栗縣"
+        },
+        "360": {
+            "district_name": "苗栗市",
+            "zip_number": "360",
+            "city_name": "苗栗縣"
+        },
+        "361": {
+            "district_name": "造橋鄉",
+            "zip_number": "361",
+            "city_name": "苗栗縣"
+        },
+        "362": {
+            "district_name": "頭屋鄉",
+            "zip_number": "362",
+            "city_name": "苗栗縣"
+        },
+        "363": {
+            "district_name": "公館鄉",
+            "zip_number": "363",
+            "city_name": "苗栗縣"
+        },
+        "364": {
+            "district_name": "大湖鄉",
+            "zip_number": "364",
+            "city_name": "苗栗縣"
+        },
+        "365": {
+            "district_name": "泰安鄉",
+            "zip_number": "365",
+            "city_name": "苗栗縣"
+        },
+        "366": {
+            "district_name": "銅鑼鄉",
+            "zip_number": "366",
+            "city_name": "苗栗縣"
+        },
+        "367": {
+            "district_name": "三義鄉",
+            "zip_number": "367",
+            "city_name": "苗栗縣"
+        },
+        "368": {
+            "district_name": "西湖鄉",
+            "zip_number": "368",
+            "city_name": "苗栗縣"
+        },
+        "369": {
+            "district_name": "卓蘭鎮",
+            "zip_number": "369",
+            "city_name": "苗栗縣"
+        }
+    },
+    "臺中市": {
+        "400": {
+            "district_name": "中區",
+            "zip_number": "400",
+            "city_name": "臺中市"
+        },
+        "401": {
+            "district_name": "東區",
+            "zip_number": "401",
+            "city_name": "臺中市"
+        },
+        "402": {
+            "district_name": "南區",
+            "zip_number": "402",
+            "city_name": "臺中市"
+        },
+        "403": {
+            "district_name": "西區",
+            "zip_number": "403",
+            "city_name": "臺中市"
+        },
+        "404": {
+            "district_name": "北區",
+            "zip_number": "404",
+            "city_name": "臺中市"
+        },
+        "406": {
+            "district_name": "北屯區",
+            "zip_number": "406",
+            "city_name": "臺中市"
+        },
+        "407": {
+            "district_name": "西屯區",
+            "zip_number": "407",
+            "city_name": "臺中市"
+        },
+        "408": {
+            "district_name": "南屯區",
+            "zip_number": "408",
+            "city_name": "臺中市"
+        },
+        "411": {
+            "district_name": "太平區",
+            "zip_number": "411",
+            "city_name": "臺中市"
+        },
+        "412": {
+            "district_name": "大里區",
+            "zip_number": "412",
+            "city_name": "臺中市"
+        },
+        "413": {
+            "district_name": "霧峰區",
+            "zip_number": "413",
+            "city_name": "臺中市"
+        },
+        "414": {
+            "district_name": "烏日區",
+            "zip_number": "414",
+            "city_name": "臺中市"
+        },
+        "420": {
+            "district_name": "豐原區",
+            "zip_number": "420",
+            "city_name": "臺中市"
+        },
+        "421": {
+            "district_name": "后里區",
+            "zip_number": "421",
+            "city_name": "臺中市"
+        },
+        "422": {
+            "district_name": "石岡區",
+            "zip_number": "422",
+            "city_name": "臺中市"
+        },
+        "423": {
+            "district_name": "東勢區",
+            "zip_number": "423",
+            "city_name": "臺中市"
+        },
+        "424": {
+            "district_name": "和平區",
+            "zip_number": "424",
+            "city_name": "臺中市"
+        },
+        "426": {
+            "district_name": "新社區",
+            "zip_number": "426",
+            "city_name": "臺中市"
+        },
+        "427": {
+            "district_name": "潭子區",
+            "zip_number": "427",
+            "city_name": "臺中市"
+        },
+        "428": {
+            "district_name": "大雅區",
+            "zip_number": "428",
+            "city_name": "臺中市"
+        },
+        "429": {
+            "district_name": "神岡區",
+            "zip_number": "429",
+            "city_name": "臺中市"
+        },
+        "432": {
+            "district_name": "大肚區",
+            "zip_number": "432",
+            "city_name": "臺中市"
+        },
+        "433": {
+            "district_name": "沙鹿區",
+            "zip_number": "433",
+            "city_name": "臺中市"
+        },
+        "434": {
+            "district_name": "龍井區",
+            "zip_number": "434",
+            "city_name": "臺中市"
+        },
+        "435": {
+            "district_name": "梧棲區",
+            "zip_number": "435",
+            "city_name": "臺中市"
+        },
+        "436": {
+            "district_name": "清水區",
+            "zip_number": "436",
+            "city_name": "臺中市"
+        },
+        "437": {
+            "district_name": "大甲區",
+            "zip_number": "437",
+            "city_name": "臺中市"
+        },
+        "438": {
+            "district_name": "外埔區",
+            "zip_number": "438",
+            "city_name": "臺中市"
+        },
+        "439": {
+            "district_name": "大安區",
+            "zip_number": "439",
+            "city_name": "臺中市"
+        }
+    },
+    "彰化縣": {
+        "500": {
+            "district_name": "彰化市",
+            "zip_number": "500",
+            "city_name": "彰化縣"
+        },
+        "502": {
+            "district_name": "芬園鄉",
+            "zip_number": "502",
+            "city_name": "彰化縣"
+        },
+        "503": {
+            "district_name": "花壇鄉",
+            "zip_number": "503",
+            "city_name": "彰化縣"
+        },
+        "504": {
+            "district_name": "秀水鄉",
+            "zip_number": "504",
+            "city_name": "彰化縣"
+        },
+        "505": {
+            "district_name": "鹿港鎮",
+            "zip_number": "505",
+            "city_name": "彰化縣"
+        },
+        "506": {
+            "district_name": "福興鄉",
+            "zip_number": "506",
+            "city_name": "彰化縣"
+        },
+        "507": {
+            "district_name": "線西鄉",
+            "zip_number": "507",
+            "city_name": "彰化縣"
+        },
+        "508": {
+            "district_name": "和美鎮",
+            "zip_number": "508",
+            "city_name": "彰化縣"
+        },
+        "509": {
+            "district_name": "伸港鄉",
+            "zip_number": "509",
+            "city_name": "彰化縣"
+        },
+        "510": {
+            "district_name": "員林市",
+            "zip_number": "510",
+            "city_name": "彰化縣"
+        },
+        "511": {
+            "district_name": "社頭鄉",
+            "zip_number": "511",
+            "city_name": "彰化縣"
+        },
+        "512": {
+            "district_name": "永靖鄉",
+            "zip_number": "512",
+            "city_name": "彰化縣"
+        },
+        "513": {
+            "district_name": "埔心鄉",
+            "zip_number": "513",
+            "city_name": "彰化縣"
+        },
+        "514": {
+            "district_name": "溪湖鎮",
+            "zip_number": "514",
+            "city_name": "彰化縣"
+        },
+        "515": {
+            "district_name": "大村鄉",
+            "zip_number": "515",
+            "city_name": "彰化縣"
+        },
+        "516": {
+            "district_name": "埔鹽鄉",
+            "zip_number": "516",
+            "city_name": "彰化縣"
+        },
+        "520": {
+            "district_name": "田中鎮",
+            "zip_number": "520",
+            "city_name": "彰化縣"
+        },
+        "521": {
+            "district_name": "北斗鎮",
+            "zip_number": "521",
+            "city_name": "彰化縣"
+        },
+        "522": {
+            "district_name": "田尾鄉",
+            "zip_number": "522",
+            "city_name": "彰化縣"
+        },
+        "523": {
+            "district_name": "埤頭鄉",
+            "zip_number": "523",
+            "city_name": "彰化縣"
+        },
+        "524": {
+            "district_name": "溪州鄉",
+            "zip_number": "524",
+            "city_name": "彰化縣"
+        },
+        "525": {
+            "district_name": "竹塘鄉",
+            "zip_number": "525",
+            "city_name": "彰化縣"
+        },
+        "526": {
+            "district_name": "二林鎮",
+            "zip_number": "526",
+            "city_name": "彰化縣"
+        },
+        "527": {
+            "district_name": "大城鄉",
+            "zip_number": "527",
+            "city_name": "彰化縣"
+        },
+        "528": {
+            "district_name": "芳苑鄉",
+            "zip_number": "528",
+            "city_name": "彰化縣"
+        },
+        "530": {
+            "district_name": "二水鄉",
+            "zip_number": "530",
+            "city_name": "彰化縣"
+        }
+    },
+    "南投縣": {
+        "540": {
+            "district_name": "南投市",
+            "zip_number": "540",
+            "city_name": "南投縣"
+        },
+        "541": {
+            "district_name": "中寮鄉",
+            "zip_number": "541",
+            "city_name": "南投縣"
+        },
+        "542": {
+            "district_name": "草屯鎮",
+            "zip_number": "542",
+            "city_name": "南投縣"
+        },
+        "544": {
+            "district_name": "國姓鄉",
+            "zip_number": "544",
+            "city_name": "南投縣"
+        },
+        "545": {
+            "district_name": "埔里鎮",
+            "zip_number": "545",
+            "city_name": "南投縣"
+        },
+        "546": {
+            "district_name": "仁愛鄉",
+            "zip_number": "546",
+            "city_name": "南投縣"
+        },
+        "551": {
+            "district_name": "名間鄉",
+            "zip_number": "551",
+            "city_name": "南投縣"
+        },
+        "552": {
+            "district_name": "集集鎮",
+            "zip_number": "552",
+            "city_name": "南投縣"
+        },
+        "553": {
+            "district_name": "水里鄉",
+            "zip_number": "553",
+            "city_name": "南投縣"
+        },
+        "555": {
+            "district_name": "魚池鄉",
+            "zip_number": "555",
+            "city_name": "南投縣"
+        },
+        "556": {
+            "district_name": "信義鄉",
+            "zip_number": "556",
+            "city_name": "南投縣"
+        },
+        "557": {
+            "district_name": "竹山鎮",
+            "zip_number": "557",
+            "city_name": "南投縣"
+        },
+        "558": {
+            "district_name": "鹿谷鄉",
+            "zip_number": "558",
+            "city_name": "南投縣"
+        }
+    },
+    "嘉義市": {
+        "600": {
+            "district_name": "嘉義市",
+            "zip_number": "600",
+            "city_name": "嘉義市"
+        }
+    },
+    "嘉義縣": {
+        "602": {
+            "district_name": "番路鄉",
+            "zip_number": "602",
+            "city_name": "嘉義縣"
+        },
+        "603": {
+            "district_name": "梅山鄉",
+            "zip_number": "603",
+            "city_name": "嘉義縣"
+        },
+        "604": {
+            "district_name": "竹崎鄉",
+            "zip_number": "604",
+            "city_name": "嘉義縣"
+        },
+        "605": {
+            "district_name": "阿里山鄉",
+            "zip_number": "605",
+            "city_name": "嘉義縣"
+        },
+        "606": {
+            "district_name": "中埔鄉",
+            "zip_number": "606",
+            "city_name": "嘉義縣"
+        },
+        "607": {
+            "district_name": "大埔鄉",
+            "zip_number": "607",
+            "city_name": "嘉義縣"
+        },
+        "608": {
+            "district_name": "水上鄉",
+            "zip_number": "608",
+            "city_name": "嘉義縣"
+        },
+        "611": {
+            "district_name": "鹿草鄉",
+            "zip_number": "611",
+            "city_name": "嘉義縣"
+        },
+        "612": {
+            "district_name": "太保市",
+            "zip_number": "612",
+            "city_name": "嘉義縣"
+        },
+        "613": {
+            "district_name": "朴子市",
+            "zip_number": "613",
+            "city_name": "嘉義縣"
+        },
+        "614": {
+            "district_name": "東石鄉",
+            "zip_number": "614",
+            "city_name": "嘉義縣"
+        },
+        "615": {
+            "district_name": "六腳鄉",
+            "zip_number": "615",
+            "city_name": "嘉義縣"
+        },
+        "616": {
+            "district_name": "新港鄉",
+            "zip_number": "616",
+            "city_name": "嘉義縣"
+        },
+        "621": {
+            "district_name": "民雄鄉",
+            "zip_number": "621",
+            "city_name": "嘉義縣"
+        },
+        "622": {
+            "district_name": "大林鎮",
+            "zip_number": "622",
+            "city_name": "嘉義縣"
+        },
+        "623": {
+            "district_name": "溪口鄉",
+            "zip_number": "623",
+            "city_name": "嘉義縣"
+        },
+        "624": {
+            "district_name": "義竹鄉",
+            "zip_number": "624",
+            "city_name": "嘉義縣"
+        },
+        "625": {
+            "district_name": "布袋鎮",
+            "zip_number": "625",
+            "city_name": "嘉義縣"
+        }
+    },
+    "雲林縣": {
+        "630": {
+            "district_name": "斗南鎮",
+            "zip_number": "630",
+            "city_name": "雲林縣"
+        },
+        "631": {
+            "district_name": "大埤鄉",
+            "zip_number": "631",
+            "city_name": "雲林縣"
+        },
+        "632": {
+            "district_name": "虎尾鎮",
+            "zip_number": "632",
+            "city_name": "雲林縣"
+        },
+        "633": {
+            "district_name": "土庫鎮",
+            "zip_number": "633",
+            "city_name": "雲林縣"
+        },
+        "634": {
+            "district_name": "褒忠鄉",
+            "zip_number": "634",
+            "city_name": "雲林縣"
+        },
+        "635": {
+            "district_name": "東勢鄉",
+            "zip_number": "635",
+            "city_name": "雲林縣"
+        },
+        "636": {
+            "district_name": "臺西鄉",
+            "zip_number": "636",
+            "city_name": "雲林縣"
+        },
+        "637": {
+            "district_name": "崙背鄉",
+            "zip_number": "637",
+            "city_name": "雲林縣"
+        },
+        "638": {
+            "district_name": "麥寮鄉",
+            "zip_number": "638",
+            "city_name": "雲林縣"
+        },
+        "640": {
+            "district_name": "斗六市",
+            "zip_number": "640",
+            "city_name": "雲林縣"
+        },
+        "643": {
+            "district_name": "林內鄉",
+            "zip_number": "643",
+            "city_name": "雲林縣"
+        },
+        "646": {
+            "district_name": "古坑鄉",
+            "zip_number": "646",
+            "city_name": "雲林縣"
+        },
+        "647": {
+            "district_name": "莿桐鄉",
+            "zip_number": "647",
+            "city_name": "雲林縣"
+        },
+        "648": {
+            "district_name": "西螺鎮",
+            "zip_number": "648",
+            "city_name": "雲林縣"
+        },
+        "649": {
+            "district_name": "二崙鄉",
+            "zip_number": "649",
+            "city_name": "雲林縣"
+        },
+        "651": {
+            "district_name": "北港鎮",
+            "zip_number": "651",
+            "city_name": "雲林縣"
+        },
+        "652": {
+            "district_name": "水林鄉",
+            "zip_number": "652",
+            "city_name": "雲林縣"
+        },
+        "653": {
+            "district_name": "口湖鄉",
+            "zip_number": "653",
+            "city_name": "雲林縣"
+        },
+        "654": {
+            "district_name": "四湖鄉",
+            "zip_number": "654",
+            "city_name": "雲林縣"
+        },
+        "655": {
+            "district_name": "元長鄉",
+            "zip_number": "655",
+            "city_name": "雲林縣"
+        }
+    },
+    "臺南市": {
+        "700": {
+            "district_name": "中西區",
+            "zip_number": "700",
+            "city_name": "臺南市"
+        },
+        "701": {
+            "district_name": "東區",
+            "zip_number": "701",
+            "city_name": "臺南市"
+        },
+        "702": {
+            "district_name": "南區",
+            "zip_number": "702",
+            "city_name": "臺南市"
+        },
+        "704": {
+            "district_name": "北區",
+            "zip_number": "704",
+            "city_name": "臺南市"
+        },
+        "708": {
+            "district_name": "安平區",
+            "zip_number": "708",
+            "city_name": "臺南市"
+        },
+        "709": {
+            "district_name": "安南區",
+            "zip_number": "709",
+            "city_name": "臺南市"
+        },
+        "710": {
+            "district_name": "永康區",
+            "zip_number": "710",
+            "city_name": "臺南市"
+        },
+        "711": {
+            "district_name": "歸仁區",
+            "zip_number": "711",
+            "city_name": "臺南市"
+        },
+        "712": {
+            "district_name": "新化區",
+            "zip_number": "712",
+            "city_name": "臺南市"
+        },
+        "713": {
+            "district_name": "左鎮區",
+            "zip_number": "713",
+            "city_name": "臺南市"
+        },
+        "714": {
+            "district_name": "玉井區",
+            "zip_number": "714",
+            "city_name": "臺南市"
+        },
+        "715": {
+            "district_name": "楠西區",
+            "zip_number": "715",
+            "city_name": "臺南市"
+        },
+        "716": {
+            "district_name": "南化區",
+            "zip_number": "716",
+            "city_name": "臺南市"
+        },
+        "717": {
+            "district_name": "仁德區",
+            "zip_number": "717",
+            "city_name": "臺南市"
+        },
+        "718": {
+            "district_name": "關廟區",
+            "zip_number": "718",
+            "city_name": "臺南市"
+        },
+        "719": {
+            "district_name": "龍崎區",
+            "zip_number": "719",
+            "city_name": "臺南市"
+        },
+        "720": {
+            "district_name": "官田區",
+            "zip_number": "720",
+            "city_name": "臺南市"
+        },
+        "721": {
+            "district_name": "麻豆區",
+            "zip_number": "721",
+            "city_name": "臺南市"
+        },
+        "722": {
+            "district_name": "佳里區",
+            "zip_number": "722",
+            "city_name": "臺南市"
+        },
+        "723": {
+            "district_name": "西港區",
+            "zip_number": "723",
+            "city_name": "臺南市"
+        },
+        "724": {
+            "district_name": "七股區",
+            "zip_number": "724",
+            "city_name": "臺南市"
+        },
+        "725": {
+            "district_name": "將軍區",
+            "zip_number": "725",
+            "city_name": "臺南市"
+        },
+        "726": {
+            "district_name": "學甲區",
+            "zip_number": "726",
+            "city_name": "臺南市"
+        },
+        "727": {
+            "district_name": "北門區",
+            "zip_number": "727",
+            "city_name": "臺南市"
+        },
+        "730": {
+            "district_name": "新營區",
+            "zip_number": "730",
+            "city_name": "臺南市"
+        },
+        "731": {
+            "district_name": "後壁區",
+            "zip_number": "731",
+            "city_name": "臺南市"
+        },
+        "732": {
+            "district_name": "白河區",
+            "zip_number": "732",
+            "city_name": "臺南市"
+        },
+        "733": {
+            "district_name": "東山區",
+            "zip_number": "733",
+            "city_name": "臺南市"
+        },
+        "734": {
+            "district_name": "六甲區",
+            "zip_number": "734",
+            "city_name": "臺南市"
+        },
+        "735": {
+            "district_name": "下營區",
+            "zip_number": "735",
+            "city_name": "臺南市"
+        },
+        "736": {
+            "district_name": "柳營區",
+            "zip_number": "736",
+            "city_name": "臺南市"
+        },
+        "737": {
+            "district_name": "鹽水區",
+            "zip_number": "737",
+            "city_name": "臺南市"
+        },
+        "741": {
+            "district_name": "善化區",
+            "zip_number": "741",
+            "city_name": "臺南市"
+        },
+        "742": {
+            "district_name": "大內區",
+            "zip_number": "742",
+            "city_name": "臺南市"
+        },
+        "743": {
+            "district_name": "山上區",
+            "zip_number": "743",
+            "city_name": "臺南市"
+        },
+        "744": {
+            "district_name": "新市區",
+            "zip_number": "744",
+            "city_name": "臺南市"
+        },
+        "745": {
+            "district_name": "安定區",
+            "zip_number": "745",
+            "city_name": "臺南市"
+        }
+    },
+    "高雄市": {
+        "800": {
+            "district_name": "新興區",
+            "zip_number": "800",
+            "city_name": "高雄市"
+        },
+        "801": {
+            "district_name": "前金區",
+            "zip_number": "801",
+            "city_name": "高雄市"
+        },
+        "802": {
+            "district_name": "苓雅區",
+            "zip_number": "802",
+            "city_name": "高雄市"
+        },
+        "803": {
+            "district_name": "鹽埕區",
+            "zip_number": "803",
+            "city_name": "高雄市"
+        },
+        "804": {
+            "district_name": "鼓山區",
+            "zip_number": "804",
+            "city_name": "高雄市"
+        },
+        "805": {
+            "district_name": "旗津區",
+            "zip_number": "805",
+            "city_name": "高雄市"
+        },
+        "806": {
+            "district_name": "前鎮區",
+            "zip_number": "806",
+            "city_name": "高雄市"
+        },
+        "807": {
+            "district_name": "三民區",
+            "zip_number": "807",
+            "city_name": "高雄市"
+        },
+        "811": {
+            "district_name": "楠梓區",
+            "zip_number": "811",
+            "city_name": "高雄市"
+        },
+        "812": {
+            "district_name": "小港區",
+            "zip_number": "812",
+            "city_name": "高雄市"
+        },
+        "813": {
+            "district_name": "左營區",
+            "zip_number": "813",
+            "city_name": "高雄市"
+        },
+        "814": {
+            "district_name": "仁武區",
+            "zip_number": "814",
+            "city_name": "高雄市"
+        },
+        "815": {
+            "district_name": "大社區",
+            "zip_number": "815",
+            "city_name": "高雄市"
+        },
+        "817": {
+            "district_name": "東沙群島",
+            "zip_number": "817",
+            "city_name": "高雄市"
+        },
+        "819": {
+            "district_name": "南沙群島",
+            "zip_number": "819",
+            "city_name": "高雄市"
+        },
+        "820": {
+            "district_name": "岡山區",
+            "zip_number": "820",
+            "city_name": "高雄市"
+        },
+        "821": {
+            "district_name": "路竹區",
+            "zip_number": "821",
+            "city_name": "高雄市"
+        },
+        "822": {
+            "district_name": "阿蓮區",
+            "zip_number": "822",
+            "city_name": "高雄市"
+        },
+        "823": {
+            "district_name": "田寮區",
+            "zip_number": "823",
+            "city_name": "高雄市"
+        },
+        "824": {
+            "district_name": "燕巢區",
+            "zip_number": "824",
+            "city_name": "高雄市"
+        },
+        "825": {
+            "district_name": "橋頭區",
+            "zip_number": "825",
+            "city_name": "高雄市"
+        },
+        "826": {
+            "district_name": "梓官區",
+            "zip_number": "826",
+            "city_name": "高雄市"
+        },
+        "827": {
+            "district_name": "彌陀區",
+            "zip_number": "827",
+            "city_name": "高雄市"
+        },
+        "828": {
+            "district_name": "永安區",
+            "zip_number": "828",
+            "city_name": "高雄市"
+        },
+        "829": {
+            "district_name": "湖內區",
+            "zip_number": "829",
+            "city_name": "高雄市"
+        },
+        "830": {
+            "district_name": "鳳山區",
+            "zip_number": "830",
+            "city_name": "高雄市"
+        },
+        "831": {
+            "district_name": "大寮區",
+            "zip_number": "831",
+            "city_name": "高雄市"
+        },
+        "832": {
+            "district_name": "林園區",
+            "zip_number": "832",
+            "city_name": "高雄市"
+        },
+        "833": {
+            "district_name": "鳥松區",
+            "zip_number": "833",
+            "city_name": "高雄市"
+        },
+        "840": {
+            "district_name": "大樹區",
+            "zip_number": "840",
+            "city_name": "高雄市"
+        },
+        "842": {
+            "district_name": "旗山區",
+            "zip_number": "842",
+            "city_name": "高雄市"
+        },
+        "843": {
+            "district_name": "美濃區",
+            "zip_number": "843",
+            "city_name": "高雄市"
+        },
+        "844": {
+            "district_name": "六龜區",
+            "zip_number": "844",
+            "city_name": "高雄市"
+        },
+        "845": {
+            "district_name": "內門區",
+            "zip_number": "845",
+            "city_name": "高雄市"
+        },
+        "846": {
+            "district_name": "杉林區",
+            "zip_number": "846",
+            "city_name": "高雄市"
+        },
+        "847": {
+            "district_name": "甲仙區",
+            "zip_number": "847",
+            "city_name": "高雄市"
+        },
+        "848": {
+            "district_name": "桃源區",
+            "zip_number": "848",
+            "city_name": "高雄市"
+        },
+        "849": {
+            "district_name": "那瑪夏區",
+            "zip_number": "849",
+            "city_name": "高雄市"
+        },
+        "851": {
+            "district_name": "茂林區",
+            "zip_number": "851",
+            "city_name": "高雄市"
+        },
+        "852": {
+            "district_name": "茄萣區",
+            "zip_number": "852",
+            "city_name": "高雄市"
+        }
+    },
+    "澎湖縣": {
+        "880": {
+            "district_name": "馬公市",
+            "zip_number": "880",
+            "city_name": "澎湖縣"
+        },
+        "881": {
+            "district_name": "西嶼鄉",
+            "zip_number": "881",
+            "city_name": "澎湖縣"
+        },
+        "882": {
+            "district_name": "望安鄉",
+            "zip_number": "882",
+            "city_name": "澎湖縣"
+        },
+        "883": {
+            "district_name": "七美鄉",
+            "zip_number": "883",
+            "city_name": "澎湖縣"
+        },
+        "884": {
+            "district_name": "白沙鄉",
+            "zip_number": "884",
+            "city_name": "澎湖縣"
+        },
+        "885": {
+            "district_name": "湖西鄉",
+            "zip_number": "885",
+            "city_name": "澎湖縣"
+        }
+    },
+    "金門縣": {
+        "890": {
+            "district_name": "金沙鎮",
+            "zip_number": "890",
+            "city_name": "金門縣"
+        },
+        "891": {
+            "district_name": "金湖鎮",
+            "zip_number": "891",
+            "city_name": "金門縣"
+        },
+        "892": {
+            "district_name": "金寧鄉",
+            "zip_number": "892",
+            "city_name": "金門縣"
+        },
+        "893": {
+            "district_name": "金城鎮",
+            "zip_number": "893",
+            "city_name": "金門縣"
+        },
+        "894": {
+            "district_name": "烈嶼鄉",
+            "zip_number": "894",
+            "city_name": "金門縣"
+        },
+        "896": {
+            "district_name": "烏坵鄉",
+            "zip_number": "896",
+            "city_name": "金門縣"
+        }
+    },
+    "屏東縣": {
+        "900": {
+            "district_name": "屏東市",
+            "zip_number": "900",
+            "city_name": "屏東縣"
+        },
+        "901": {
+            "district_name": "三地門鄉",
+            "zip_number": "901",
+            "city_name": "屏東縣"
+        },
+        "902": {
+            "district_name": "霧臺鄉",
+            "zip_number": "902",
+            "city_name": "屏東縣"
+        },
+        "903": {
+            "district_name": "瑪家鄉",
+            "zip_number": "903",
+            "city_name": "屏東縣"
+        },
+        "904": {
+            "district_name": "九如鄉",
+            "zip_number": "904",
+            "city_name": "屏東縣"
+        },
+        "905": {
+            "district_name": "里港鄉",
+            "zip_number": "905",
+            "city_name": "屏東縣"
+        },
+        "906": {
+            "district_name": "高樹鄉",
+            "zip_number": "906",
+            "city_name": "屏東縣"
+        },
+        "907": {
+            "district_name": "鹽埔鄉",
+            "zip_number": "907",
+            "city_name": "屏東縣"
+        },
+        "908": {
+            "district_name": "長治鄉",
+            "zip_number": "908",
+            "city_name": "屏東縣"
+        },
+        "909": {
+            "district_name": "麟洛鄉",
+            "zip_number": "909",
+            "city_name": "屏東縣"
+        },
+        "911": {
+            "district_name": "竹田鄉",
+            "zip_number": "911",
+            "city_name": "屏東縣"
+        },
+        "912": {
+            "district_name": "內埔鄉",
+            "zip_number": "912",
+            "city_name": "屏東縣"
+        },
+        "913": {
+            "district_name": "萬丹鄉",
+            "zip_number": "913",
+            "city_name": "屏東縣"
+        },
+        "920": {
+            "district_name": "潮州鎮",
+            "zip_number": "920",
+            "city_name": "屏東縣"
+        },
+        "921": {
+            "district_name": "泰武鄉",
+            "zip_number": "921",
+            "city_name": "屏東縣"
+        },
+        "922": {
+            "district_name": "來義鄉",
+            "zip_number": "922",
+            "city_name": "屏東縣"
+        },
+        "923": {
+            "district_name": "萬巒鄉",
+            "zip_number": "923",
+            "city_name": "屏東縣"
+        },
+        "924": {
+            "district_name": "崁頂鄉",
+            "zip_number": "924",
+            "city_name": "屏東縣"
+        },
+        "925": {
+            "district_name": "新埤鄉",
+            "zip_number": "925",
+            "city_name": "屏東縣"
+        },
+        "926": {
+            "district_name": "南州鄉",
+            "zip_number": "926",
+            "city_name": "屏東縣"
+        },
+        "927": {
+            "district_name": "林邊鄉",
+            "zip_number": "927",
+            "city_name": "屏東縣"
+        },
+        "928": {
+            "district_name": "東港鎮",
+            "zip_number": "928",
+            "city_name": "屏東縣"
+        },
+        "929": {
+            "district_name": "琉球鄉",
+            "zip_number": "929",
+            "city_name": "屏東縣"
+        },
+        "931": {
+            "district_name": "佳冬鄉",
+            "zip_number": "931",
+            "city_name": "屏東縣"
+        },
+        "932": {
+            "district_name": "新園鄉",
+            "zip_number": "932",
+            "city_name": "屏東縣"
+        },
+        "940": {
+            "district_name": "枋寮鄉",
+            "zip_number": "940",
+            "city_name": "屏東縣"
+        },
+        "941": {
+            "district_name": "枋山鄉",
+            "zip_number": "941",
+            "city_name": "屏東縣"
+        },
+        "942": {
+            "district_name": "春日鄉",
+            "zip_number": "942",
+            "city_name": "屏東縣"
+        },
+        "943": {
+            "district_name": "獅子鄉",
+            "zip_number": "943",
+            "city_name": "屏東縣"
+        },
+        "944": {
+            "district_name": "車城鄉",
+            "zip_number": "944",
+            "city_name": "屏東縣"
+        },
+        "945": {
+            "district_name": "牡丹鄉",
+            "zip_number": "945",
+            "city_name": "屏東縣"
+        },
+        "946": {
+            "district_name": "恆春鎮",
+            "zip_number": "946",
+            "city_name": "屏東縣"
+        },
+        "947": {
+            "district_name": "滿州鄉",
+            "zip_number": "947",
+            "city_name": "屏東縣"
+        }
+    },
+    "臺東縣": {
+        "950": {
+            "district_name": "臺東市",
+            "zip_number": "950",
+            "city_name": "臺東縣"
+        },
+        "951": {
+            "district_name": "綠島鄉",
+            "zip_number": "951",
+            "city_name": "臺東縣"
+        },
+        "952": {
+            "district_name": "蘭嶼鄉",
+            "zip_number": "952",
+            "city_name": "臺東縣"
+        },
+        "953": {
+            "district_name": "延平鄉",
+            "zip_number": "953",
+            "city_name": "臺東縣"
+        },
+        "954": {
+            "district_name": "卑南鄉",
+            "zip_number": "954",
+            "city_name": "臺東縣"
+        },
+        "955": {
+            "district_name": "鹿野鄉",
+            "zip_number": "955",
+            "city_name": "臺東縣"
+        },
+        "956": {
+            "district_name": "關山鎮",
+            "zip_number": "956",
+            "city_name": "臺東縣"
+        },
+        "957": {
+            "district_name": "海端鄉",
+            "zip_number": "957",
+            "city_name": "臺東縣"
+        },
+        "958": {
+            "district_name": "池上鄉",
+            "zip_number": "958",
+            "city_name": "臺東縣"
+        },
+        "959": {
+            "district_name": "東河鄉",
+            "zip_number": "959",
+            "city_name": "臺東縣"
+        },
+        "961": {
+            "district_name": "成功鎮",
+            "zip_number": "961",
+            "city_name": "臺東縣"
+        },
+        "962": {
+            "district_name": "長濱鄉",
+            "zip_number": "962",
+            "city_name": "臺東縣"
+        },
+        "963": {
+            "district_name": "太麻里鄉",
+            "zip_number": "963",
+            "city_name": "臺東縣"
+        },
+        "964": {
+            "district_name": "金峰鄉",
+            "zip_number": "964",
+            "city_name": "臺東縣"
+        },
+        "965": {
+            "district_name": "大武鄉",
+            "zip_number": "965",
+            "city_name": "臺東縣"
+        },
+        "966": {
+            "district_name": "達仁鄉",
+            "zip_number": "966",
+            "city_name": "臺東縣"
+        }
+    },
+    "花蓮縣": {
+        "970": {
+            "district_name": "花蓮市",
+            "zip_number": "970",
+            "city_name": "花蓮縣"
+        },
+        "971": {
+            "district_name": "新城鄉",
+            "zip_number": "971",
+            "city_name": "花蓮縣"
+        },
+        "972": {
+            "district_name": "秀林鄉",
+            "zip_number": "972",
+            "city_name": "花蓮縣"
+        },
+        "973": {
+            "district_name": "吉安鄉",
+            "zip_number": "973",
+            "city_name": "花蓮縣"
+        },
+        "974": {
+            "district_name": "壽豐鄉",
+            "zip_number": "974",
+            "city_name": "花蓮縣"
+        },
+        "975": {
+            "district_name": "鳳林鎮",
+            "zip_number": "975",
+            "city_name": "花蓮縣"
+        },
+        "976": {
+            "district_name": "光復鄉",
+            "zip_number": "976",
+            "city_name": "花蓮縣"
+        },
+        "977": {
+            "district_name": "豐濱鄉",
+            "zip_number": "977",
+            "city_name": "花蓮縣"
+        },
+        "978": {
+            "district_name": "瑞穗鄉",
+            "zip_number": "978",
+            "city_name": "花蓮縣"
+        },
+        "979": {
+            "district_name": "萬榮鄉",
+            "zip_number": "979",
+            "city_name": "花蓮縣"
+        },
+        "981": {
+            "district_name": "玉里鎮",
+            "zip_number": "981",
+            "city_name": "花蓮縣"
+        },
+        "982": {
+            "district_name": "卓溪鄉",
+            "zip_number": "982",
+            "city_name": "花蓮縣"
+        },
+        "983": {
+            "district_name": "富里鄉",
+            "zip_number": "983",
+            "city_name": "花蓮縣"
+        }
+    }
+}
