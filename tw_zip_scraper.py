@@ -2,6 +2,7 @@ from pyquery import PyQuery as pq
 from xlsxwriter import Workbook
 from PIL import Image, ImageDraw
 import json
+import csv
 
 class TaiwanZipScraper:
     def __init__(self):
@@ -138,11 +139,27 @@ class TaiwanZipScraper:
             row += 1
         workbook.close()
 
+    def export_csv(self):
+        header = ["郵遞區號", "行政區", "所在縣市"]
+        with open("taiwan_zip.csv", "w", encoding="UTF8") as f:
+            writer = csv.writer(f)
+            writer.writerow(header)
+            for full in self.full_list:
+                writer.writerow([
+                    full["zip_number"],
+                    full["district_name"],
+                    full["city_name"]
+                ])
+
 # Create instance
 taiwan_zip_scraper = TaiwanZipScraper()
 
 # Export xlsx file
-taiwan_zip_scraper.export_xlsx()
+# taiwan_zip_scraper.export_xlsx()
+
+# Export csv file
+# taiwan_zip_scraper.export_csv()
 
 # Export zip images
-taiwan_zip_scraper.export_zip_images()
+# taiwan_zip_scraper.export_zip_images()
+
