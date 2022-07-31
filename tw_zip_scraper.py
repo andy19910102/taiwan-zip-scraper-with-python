@@ -183,6 +183,11 @@ class TaiwanZipScraper:
         <body>
             <div class="container py-5">
                 <h1>中華民國行政區郵遞區號查詢表</h1>
+                <div class="py-3">
+                    <a href="json_examples/city_district_full.json" target="_blank">
+                        City District Full
+                    </a>
+                </div>
                 <table id="zipTable" class="table table-striped table-bordered">
                     <thead>
                         <tr>
