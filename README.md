@@ -6,19 +6,19 @@
 
 ## Install the necessary Modules
 
-```shell=
+```shell
 $ pip install pyquery
 ```
 
 ## Start scrape and generate data
 
-```shell=
+```shell
 $ python tw_zip_scraper.py
 ```
 
 ## Export HTML with datatable.js
 
-```python=
+```python
 # Create an instance
 taiwan_zip_scraper = TaiwanZipScraper()
 
@@ -28,7 +28,7 @@ taiwan_zip_scraper.export_html()
 
 ## Export Xlsx file
 
-```python=
+```python
 # Create an instance
 taiwan_zip_scraper = TaiwanZipScraper()
 
@@ -40,7 +40,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### city_district_full.json
 
-```json=
+```json
 {
     "臺北市": {
         "中正區": {
@@ -66,7 +66,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### city_district_list.json
 
-```json=
+```json
 {
     "臺北市": [
         "中正區",
@@ -83,7 +83,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### city_list.json
 
-```json=
+```json
 [
     "臺北市",
     "基隆市",
@@ -96,7 +96,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### city_zip_full.json
 
-```json=
+```json
 {
     "臺北市": {
         "100": {
@@ -127,7 +127,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### city_zip_list.json
 
-```json=
+```json
 {
     "臺北市": [
         "100",
@@ -147,7 +147,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### district_full.json
 
-```json=
+```json
 {
     "中正區": {
         "district_name": "中正區",
@@ -170,7 +170,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### district_list.json
 
-```json=
+```json
 [
     "中正區",
     "大同區",
@@ -187,7 +187,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### district_zip.json
 
-```json=
+```json
 {
     "中正區": "202",
     "大同區": "103",
@@ -206,7 +206,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### full_list.json
 
-```json=
+```json
 [
     {
         "district_name": "中正區",
@@ -229,7 +229,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### zip_district.json
 
-```json=
+```json
 {
     "100": "中正區",
     "103": "大同區",
@@ -243,7 +243,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### zip_fill.json
 
-```json=
+```json
 {
     "100": {
         "district_name": "中正區",
@@ -266,7 +266,7 @@ taiwan_zip_scraper.export_xlsx()
 
 ### zip_list.json
 
-```json=
+```json
 [
     "100",
     "103",
