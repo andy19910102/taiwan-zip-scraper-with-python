@@ -58,9 +58,9 @@ taiwan_zip_scraper.export_xlsx()
             "zip_number": "104",
             "city_name": "臺北市"
         },
-        ...
+        // ...
     },
-    ...
+    // ...
 }
 ```
 
@@ -75,9 +75,9 @@ taiwan_zip_scraper.export_xlsx()
         "松山區",
         "大安區",
         "萬華區",
-        ...
+        // ...
     ],
-    ...
+    // ...
 }
 ```
 
@@ -90,7 +90,7 @@ taiwan_zip_scraper.export_xlsx()
     "連江縣",
     "新北市",
     "宜蘭縣",
-    ...
+    // ...
 ]
 ```
 
@@ -119,9 +119,9 @@ taiwan_zip_scraper.export_xlsx()
             "zip_number": "105",
             "city_name": "臺北市"
         },
-        ...
+        // ...
     },
-    ...
+    // ...
 }
 ```
 
@@ -139,9 +139,9 @@ taiwan_zip_scraper.export_xlsx()
         "110",
         "111",
         "112",
-        ...
+        // ...
     ,
-    ...
+    // ...
 }
 ```
 
@@ -164,7 +164,7 @@ taiwan_zip_scraper.export_xlsx()
         "zip_number": "203",
         "city_name": "基隆市"
     },
-    ...
+    // ...
 }
 ```
 
@@ -181,7 +181,7 @@ taiwan_zip_scraper.export_xlsx()
     "信義區",
     "士林區",
     "北投區",
-    ...
+    // ...
 ]
 ```
 
@@ -200,7 +200,7 @@ taiwan_zip_scraper.export_xlsx()
     "北投區": "112",
     "內湖區": "114",
     "南港區": "115",
-    ...
+    // ...
 }
 ```
 
@@ -223,7 +223,7 @@ taiwan_zip_scraper.export_xlsx()
         "zip_number": "104",
         "city_name": "臺北市"
     },
-    ...
+    // ...
 ]
 ```
 
@@ -237,7 +237,7 @@ taiwan_zip_scraper.export_xlsx()
     "105": "松山區",
     "106": "大安區",
     "108": "萬華區",
-    ...
+    // ...
 }
 ```
 
@@ -260,7 +260,7 @@ taiwan_zip_scraper.export_xlsx()
         "zip_number": "104",
         "city_name": "臺北市"
     },
-    ...
+    // ...
 }
 ```
 
@@ -277,7 +277,7 @@ taiwan_zip_scraper.export_xlsx()
     "110",
     "111",
     "112",
-    ...
+    // ...
 ]
 ```
 
